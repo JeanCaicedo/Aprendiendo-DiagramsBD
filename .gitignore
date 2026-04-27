@@ -1,0 +1,8 @@
+# Backups temporales de drawio
+*.bkp
+.$*.bkp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
